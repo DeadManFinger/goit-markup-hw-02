@@ -68,6 +68,13 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
+}
+.header-address:hover {
+  color: #404bbf;
+}
+.header-address:focus {
+  color: #404bbf;
 }
 /* *===== HERO ===== */
 .hero {
@@ -93,13 +100,13 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
-  cursor: pointer
+  cursor: pointer;
 }
-hero-button:hover {
+.hero-button:hover {
   color: #404bbf;
 }
 
-hero-button:focus {
+.hero-button:focus {
   color: #404bbf;
 }
 
@@ -113,7 +120,7 @@ hero-button:focus {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-transform: capitalize
+  text-transform: capitalize;
 }
 .about-text {
   font-family: "Roboto";
@@ -139,11 +146,11 @@ hero-button:focus {
 
 /* * ===== TEAM ===== */
 .team {
-    background-color: #F4F4FD
+  background-color: #f4f4fd;
 }
 
-.team-list{
-    background-color: #FFFFFF
+.team-item {
+  background-color: #ffffff;
 }
 
 .team-tittle {
@@ -155,6 +162,7 @@ hero-button:focus {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-subtittle {
   font-family: "Roboto";
@@ -179,7 +187,7 @@ hero-button:focus {
 
 /* *===== FOOTER ===== */
 
-.fotter {
+.footter {
   background-color: #2e2f42;
 }
 
@@ -218,9 +226,11 @@ hero-button:focus {
 /* *===== BUTTON-LIST ===== */
 .button-list-item:hover {
   color: #4d5ae5;
+  background-color: #404bbf;
 }
 .button-list-item:focus {
   color: #4d5ae5;
+  background-color: #404bbf;
 }
 
 .button-list-item {
