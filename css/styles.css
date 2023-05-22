@@ -85,3 +85,16 @@ body {
 }
 .header-adress-tell {
 }
+
+.header-adress-link:hover {color: #404bbf}
+
+.header-adress-link:focus {color: #404bbf }
+
+.header-adress-tell:hover{
+  color: #404bbf
+}
+
+
+.header-adress-tell:hover {
+  color: #404bbf
+}
