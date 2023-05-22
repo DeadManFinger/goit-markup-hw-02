@@ -1,4 +1,12 @@
-:root
+:root 
+ {
+--white: #FFFFFF;
+--CORNFLOWER: #E7E9FC;
+--IRIS: #4D5AE5;
+
+
+
+ }
 
 body {
   font-family: "Roboto", sans-serif;
