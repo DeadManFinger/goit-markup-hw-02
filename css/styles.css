@@ -1,7 +1,4 @@
-
-:root
-
-body {
+:root body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -65,12 +62,10 @@ body {
 }
 
 .header-link:hover {
-  color: #404bbf 
-  
+  color: #404bbf;
 }
-.header-link:focus{
-
-  color: #404bbf 
+.header-link:focus {
+  color: #404bbf;
 }
 
 .header-address {
@@ -86,15 +81,18 @@ body {
 .header-adress-tell {
 }
 
-.header-adress-link:hover {color: #404bbf}
-
-.header-adress-link:focus {color: #404bbf }
-
-.header-adress-tell:hover{
-  color: #404bbf
+.header-adress-link:hover {
+  color: #404bbf;
 }
 
+.header-adress-link:focus {
+  color: #404bbf;
+}
 
 .header-adress-tell:hover {
-  color: #404bbf
+  color: #404bbf;
+}
+
+.header-adress-tell:hover {
+  color: #404bbf;
 }
