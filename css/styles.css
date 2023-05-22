@@ -1,6 +1,6 @@
 :root 
 
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -98,3 +98,4 @@
 .header-adress-tell:hover {
   color: #404bbf;
 }
+
